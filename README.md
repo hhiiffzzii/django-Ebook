@@ -1,1 +1,1 @@
-# django-Ebook
+# Coming Soon
